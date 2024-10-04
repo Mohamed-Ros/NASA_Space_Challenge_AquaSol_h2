@@ -37,7 +37,10 @@ Kilowatt output per day: 70.5297
 >> Will Get The Iot System of Resbi To Control for hydrogen
 Notes :- 
 "
-We cannot measure the pressure of the flowing hydrogen mathematically, as the givens aren't sufficient, so we have to measure it manually. Using a sensor, we will try many amounts of hydrogen at specific times until we get the pressure required in Raspberry Pi to reach the required temperature.
+We cannot measure the pressure of the flowing hydrogen mathematically
+as the givens aren't sufficient, so we have to measure it manually.
+Using a sensor, we will try many amounts of hydrogen at specific times
+until we get the pressure required in Raspberry Pi to reach the required temperature.
 
 "
 ```
