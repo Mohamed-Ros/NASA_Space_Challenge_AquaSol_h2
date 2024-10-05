@@ -20,7 +20,7 @@ Number of moles of water: 16666.6667
 Number of moles of hydrogen: 16666.6667
 Mass of hydrogen: 33333.3333 kg
 Number of joules produced: 4000000000000 J
-Total final temperature of all hydrogen output : 8416.6084 °C
+Total final temperature of all hydrogen output : 8417.45 °C
 Assigned We need 330°C For One Day 
 Number of days at 330°C: 25.5049 days
 
